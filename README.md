@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#4fc3f7;">Abu Omar</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#4fc3f7;">Abdalla Mhesen</span></h1>
 <h3 align="center">🚀 Front-End Developer | React.js | Tailwind CSS | IoT Enthusiast</h3>
 
 ---
