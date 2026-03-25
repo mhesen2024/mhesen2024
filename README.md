@@ -8,7 +8,7 @@
 -  Front-End Developer Intern at **PalSoft Technology Solutions**  
 -  Passionate about building responsive, dynamic, and user-friendly web applications  
 -  From **Hebron, Palestine**  
--  Currently learning **Redux Toolkit** & **Next.js**
+-  Currently learning **Next.js**
 
 ---
 
