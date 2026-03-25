@@ -43,6 +43,7 @@
 |  [Traveler & Booking] | A travel and accommodation booking website designed to simplify finding and booking stays worldwide | React, Tailwind CSS, Context API |
 |  [Eshop] | Simple e-commerce project with theme switching (dark/light) and animated UI | React, AOS, Tailwind CSS |
 |  [Profile Page] | Responsive profile page with file upload and localStorage data management | React, Tailwind CSS |
+|  [Plants] |A plant care and information platform for discovering plant species, accessing care guides, and managing plant wellness | React 19, Vite, Tailwind CSS, React Router, Framer Motion |
 
 ---
 
