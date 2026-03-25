@@ -1,21 +1,21 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#4fc3f7;">Abdalla Mhesen</span></h1>
-<h3 align="center">🚀 Front-End Developer | React.js | Tailwind CSS | IoT Enthusiast</h3>
+<h1 align="center"> Hi there, I'm <span style="color:#4fc3f7;">Abdalla Mhesen</span></h1>
+<h3 align="center"> Front-End Developer | React.js | Tailwind CSS | IoT Enthusiast</h3>
 
 ---
 
-### 💡 About Me
-- 🎓 Computer & IoT Engineer – Palestine Technical University – Kadoorie, Al-Aroub  
-- 💼 Front-End Developer Intern at **PalSoft Technology Solutions**  
-- 💻 Passionate about building responsive, dynamic, and user-friendly web applications  
-- 🌍 From **Hebron, Palestine**  
-- ⚡ I love working with **React**, **Tailwind CSS**, and **Context API**  
-- 🎯 Currently learning **Redux Toolkit** & **Next.js**
+###  About Me
+-  Computer & IoT Engineer – Palestine Technical University – Kadoorie, Al-Aroub  
+-  Front-End Developer Intern at **PalSoft Technology Solutions**  
+-  Passionate about building responsive, dynamic, and user-friendly web applications  
+-  From **Hebron, Palestine**  
+-  I love working with **React**, **Tailwind CSS**, and **Context API**  
+-  Currently learning **Redux Toolkit** & **Next.js**
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
-#### 🚀 Front-End
+####  Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
@@ -36,17 +36,17 @@
 
 ---
 
-### 🌐 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧳 [Traveler & Booking] | A travel and accommodation booking website designed to simplify finding and booking stays worldwide | React, Tailwind CSS, Context API |
-| 🏬 [Eshop] | Simple e-commerce project with theme switching (dark/light) and animated UI | React, AOS, Tailwind CSS |
-| 👤 [Profile Page] | Responsive profile page with file upload and localStorage data management | React, Tailwind CSS |
+|  [Traveler & Booking] | A travel and accommodation booking website designed to simplify finding and booking stays worldwide | React, Tailwind CSS, Context API |
+|  [Eshop] | Simple e-commerce project with theme switching (dark/light) and animated UI | React, AOS, Tailwind CSS |
+|  [Profile Page] | Responsive profile page with file upload and localStorage data management | React, Tailwind CSS |
 
 ---
 
-### 🌍 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-mhesen-72645a315/?trk=opento_sprofile_topcard" target="_blank">
@@ -60,4 +60,4 @@
 
 ---
 
-<h3 align="center">✨ “Code. Create. Improve. Repeat.” ✨</h3>
+<h3 align="center"> “Code. Create. Improve. Repeat.” </h3>
