@@ -1,51 +1,65 @@
-<h1 align="center"> Hi there, I'm <span style="color:#4fc3f7;">Abdalla Mhesen</span></h1>
-<h3 align="center"> Front-End Developer | React.js  </h3>
+# Abdullah Omer Younis Mhesen
+
+**Front-End Developer | Computer and IoT Engineer | React & TypeScript Enthusiast**
 
 ---
 
-###  About Me
--  Computer & IoT Engineer – Palestine Technical University – Kadoorie, Al-Aroub  
--  Front-End Developer Intern at **PalSoft Technology Solutions**  
--  Passionate about building responsive, dynamic, and user-friendly web applications  
--  From **Hebron, Palestine**  
--  Currently learning **Next.js**
+##  About Me
+
+I'm Abdullah Omer Younis Mhesen, a Front-End Developer passionate about crafting efficient and visually engaging user interfaces. Currently in my fourth year studying **Computer and IoT Engineering** at Palestine Technical University - Kadoorie. I specialize in **React** and **TypeScript**, with a strong focus on responsive and user-centered design.
 
 ---
 
-###  Tech Stack
+##  Skills
 
-####  Front-End
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-
-
-###  Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-|  [Traveler & Booking] | A travel and accommodation booking website designed to simplify finding and booking stays worldwide | React, Tailwind CSS, Context API |
-|  [Eshop] | Simple e-commerce project with theme switching (dark/light) and animated UI | React, AOS, Tailwind CSS |
-|  [Profile Page] | Responsive profile page with file upload and localStorage data management | React, Tailwind CSS |
-|  [Plants] |A plant care and information platform for discovering plant species, accessing care guides, and managing plant wellness | React 19, Vite, Tailwind CSS, React Router, Framer Motion |
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript, HTML, CSS, Java, C++, Python (Basic) |
+| **Frameworks & Libraries** | React, Redux Toolkit, Context API, Tailwind CSS, Bootstrap |
+| **Tools** | Postman, Formik, Yup, JSON Web Tokens (JWT), `react-paginate` |
+| **Other** | Responsive design, API integration, State management |
 
 ---
 
-###  Connect with Me
+##  Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdalla-mhesen-72645a315/?trk=opento_sprofile_topcard" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/mhesen2024" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+### Front-End Intern — PalSoft Technology Solutions
 
+As a Front-End intern at PalSoft, I led a team to develop distinctive and efficient code that received excellent feedback from my trainers. This experience solidified my expertise in front-end development, particularly with **React**.
 
 ---
 
-<h3 align="center"> “Code. Create. Improve. Repeat.” </h3>
+## 🚀 Notable Projects
+
+###  Traveler and Booking Website
+
+A travel and accommodation booking platform designed to simplify finding and booking places to stay worldwide.
+
+**Key Features:**
+- Responsive search results with filters and sorting options
+- Integration of deals and location-based recommendations
+- Profile and reservation management
+
+###  Other Projects
+
+- **Registration & Sign-In Forms** — Developed with validation, password strength checking, and error handling using **Formik** and **Yup**.
+- **Profile Page** — Responsive profile management using `localStorage` and file upload functionality for profile pictures.
+
+---
+
+##  Currently Learning
+
+- Advanced **Redux Toolkit** with TypeScript for dark mode implementation
+- Expanding knowledge in **blockchain** for potential applications in document transfer
+
+---
+
+##  Contact
+
+-  **Location:** Al-Aroub Camp, Hebron
+-  **LinkedIn:** [abdalla-mhesen-72645a315](https://www.linkedin.com/in/abdalla-mhesen-72645a315/)
+-  **GitHub:** [mhesen2024](https://github.com/mhesen2024)
+
+---
+
+> *This README highlights my journey as a passionate Front-End Developer, continually learning and contributing to impactful projects.*
